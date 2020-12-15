@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "User-Management-app"
+    }
+  },
+  "defaultProject": "User-Management-app",
+  "cli": {
+    "analytics": false
+  }
 }
